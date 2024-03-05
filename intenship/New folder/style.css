@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navigator {
+    background-color: red;
+    max-width: 90%;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: auto;
+    text-align: center;
+    padding: 15px;
+    margin: 20px 20px;
+}
+.navigator ul{
+    list-style: none;
+}
